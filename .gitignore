@@ -1,0 +1,8 @@
+build/
+*.o
+*.su
+*.obj
+*.elf
+*.map
+.vscode/
+.idea/
