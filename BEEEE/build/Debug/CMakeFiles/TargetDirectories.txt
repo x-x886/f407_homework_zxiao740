@@ -1,0 +1,6 @@
+D:/workspace/BEEEE/build/Debug/CMakeFiles/BEEEE.dir
+D:/workspace/BEEEE/build/Debug/CMakeFiles/edit_cache.dir
+D:/workspace/BEEEE/build/Debug/CMakeFiles/rebuild_cache.dir
+D:/workspace/BEEEE/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/workspace/BEEEE/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/workspace/BEEEE/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

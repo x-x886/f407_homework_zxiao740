@@ -1,0 +1,5 @@
+D:/workspace/LED01/Core/Src/main.c:66:5:main	16	static
+D:/workspace/LED01/Core/Src/main.c:121:6:SystemClock_Config	88	static
+D:/workspace/LED01/Core/Src/main.c:167:13:MX_TIM5_Init	48	static
+D:/workspace/LED01/Core/Src/main.c:216:13:MX_GPIO_Init	16	static
+D:/workspace/LED01/Core/Src/main.c:239:6:Error_Handler	4	static

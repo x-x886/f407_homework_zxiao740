@@ -1,0 +1,2 @@
+D:/workspace/RTOS/User/taskbooster.cpp:8:19:void led_thread_entry(ULONG)	16	static
+D:/workspace/RTOS/User/taskbooster.cpp:32:17:void taskbooster()	40	static

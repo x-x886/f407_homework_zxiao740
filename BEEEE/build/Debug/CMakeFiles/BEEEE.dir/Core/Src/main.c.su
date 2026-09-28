@@ -1,0 +1,5 @@
+D:/workspace/BEEEE/Core/Src/main.c:66:5:main	8	static
+D:/workspace/BEEEE/Core/Src/main.c:116:6:SystemClock_Config	88	static
+D:/workspace/BEEEE/Core/Src/main.c:162:13:MX_TIM4_Init	48	static
+D:/workspace/BEEEE/Core/Src/main.c:211:13:MX_GPIO_Init	24	static
+D:/workspace/BEEEE/Core/Src/main.c:235:6:Error_Handler	4	static
